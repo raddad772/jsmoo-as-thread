@@ -1,0 +1,22 @@
+{
+  "name": "jsmoo-as-thread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raddad772/jsmoo-as-thread.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raddad772/jsmoo-as-thread/issues"
+  },
+  "homepage": "https://github.com/raddad772/jsmoo-as-thread#readme",
+  "devDependencies": {
+    "assemblyscript": "^0.25.0"
+  }
+}
